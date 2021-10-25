@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new technologies and solving challenging problems.
 - 📫 Reach out to me via <a href = "https://www.linkedin.com/in/geetikapaul">LinkedIn</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geetikaPaul)](https://github.com/anuraghazra/github-readme-stats)
+[![Geetika's github stats](https://github-readme-stats.vercel.app/api?username=geetikaPaul)](https://github.com/geetikaPaul/github-readme-stats)
 
 
 <!---
